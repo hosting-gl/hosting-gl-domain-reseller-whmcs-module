@@ -1,0 +1,12 @@
+{
+  "schema": "1.0",
+  "type": "whmcs-addons",
+  "name": "DomainReseller",
+  "license": "proprietary",
+  "category": "domains",
+  "description": {
+    "name": "DomainReseller",
+    "tagline": "",
+    "long": ""
+  }
+}
