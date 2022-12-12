@@ -1,2 +1,5 @@
-# hosting gl domain reseller whmcs module
+# Hosting.gl Domain reseller WHMCS module
  Connect your WHMCS to hosting.gl to resell domains
+
+
+Readme coming soon...
